@@ -24,3 +24,19 @@
 2020년 2월 1일 ~ 2020년 10월 31일 '코로나19' 관련 동아일보, 한국일보, 서울신문, 한겨레의 사설 1,167건
 
 (동아일보 - 279건, 한국일보 - 321건, 서울신문 - 332건, 한겨레 - 235건)
+
+-
+
+언론사별 명사 시각화
+
+동아일보
+![동아일보 명사 시각화](https://user-images.githubusercontent.com/74250157/100128361-892f2200-2ec3-11eb-8f81-54fb7685ddd2.png)
+
+서울신문
+![서울신문 명사 시각화](https://user-images.githubusercontent.com/74250157/100128489-afed5880-2ec3-11eb-9d84-7f198f949891.png)
+
+한겨레
+![한겨레 명사 시각화](https://user-images.githubusercontent.com/74250157/100128496-b24fb280-2ec3-11eb-9c96-739563f298f9.png)
+
+한국일보
+![한국일보 명사 시각화](https://user-images.githubusercontent.com/74250157/100128508-b54aa300-2ec3-11eb-8345-5dafd226d88c.png)
