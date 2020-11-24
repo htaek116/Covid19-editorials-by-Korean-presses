@@ -1,7 +1,6 @@
 # Covid19-editorials-by-Korean-presses
 
 학번 : 201803992
-
 이름 : 황태경
 
 
