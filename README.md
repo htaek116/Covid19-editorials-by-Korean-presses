@@ -24,8 +24,7 @@
 
 알고리즘: https://colab.research.google.com/drive/1k1R2hvmZMgqIdn5nmT7ciO0EGr69hPuv
 ![데이터 정제](https://user-images.githubusercontent.com/74250157/102798837-ff587300-43f4-11eb-891e-ec99e3bf7d0d.png)
-형태소 분석을 위한 피벗테이블 도출
-주어진 데이터를 한국어 품사별로 분석할 수 있도록 환경 마련
+형태소 분석을 위한 피벗테이블 도출 // 주어진 데이터를 한국어 품사별로 분석할 수 있도록 환경 마련
 
 
 #### 3. 형태소 분석 수행
