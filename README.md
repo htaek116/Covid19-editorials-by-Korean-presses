@@ -30,11 +30,11 @@
 
 3. 형태소 분석 수행
 
-  1) 핵심 품사 분석
+  3-1. 핵심 품사 분석
 ![핵심품사분석11](https://user-images.githubusercontent.com/74250157/102799117-67a75480-43f5-11eb-812c-9bf5f84d125f.png)
 ![핵심품사분석1](https://user-images.githubusercontent.com/74250157/102799145-71c95300-43f5-11eb-8c4f-9dc1c7c13a6d.png)
 
-  2) 종결 어미 분석
+  3-2. 종결 어미 분석
 ![종결어미분석](https://user-images.githubusercontent.com/74250157/102799164-7aba2480-43f5-11eb-8b30-d3665eba1f4b.png)
 
 
