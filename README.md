@@ -17,4 +17,19 @@
 언론사 설정: 동아일보, 서울신문, 한겨레, 한국일보
 
 2. 데이터 정제
+
 알고리즘: https://colab.research.google.com/drive/1k1R2hvmZMgqIdn5nmT7ciO0EGr69hPuv
+![데이터 정제](https://user-images.githubusercontent.com/74250157/102798837-ff587300-43f4-11eb-891e-ec99e3bf7d0d.png)
+형태소 분석을 위한 피벗테이블 도출
+
+3. 형태소 분석 수행
+
+1) 핵심 품사 분석
+![핵심품사분석11](https://user-images.githubusercontent.com/74250157/102799117-67a75480-43f5-11eb-812c-9bf5f84d125f.png)
+![핵심품사분석1](https://user-images.githubusercontent.com/74250157/102799145-71c95300-43f5-11eb-8c4f-9dc1c7c13a6d.png)
+
+2) 종결 어미 분석
+![종결어미분석](https://user-images.githubusercontent.com/74250157/102799164-7aba2480-43f5-11eb-8b30-d3665eba1f4b.png)
+
+4. 해석 결과 도출
+![데이터결과](https://user-images.githubusercontent.com/74250157/102799196-86a5e680-43f5-11eb-8c3d-940bf98daeb3.png)
